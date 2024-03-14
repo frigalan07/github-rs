@@ -26,5 +26,7 @@
 
 - Descripción: 
 - Datos de entrada: 
-- Resultado esperado: 
+- Resultado esperado:
+
+FIN
 
