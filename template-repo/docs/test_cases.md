@@ -1,6 +1,6 @@
 # Casos de prueba o escenarios
 
-*Descripción de los casos de prueba*
+*Descripción de los casos de prueba, especificando los datos datos de entrada y  los que esperamos de salida*
 
 ### Caso de prueba 1: 
 
