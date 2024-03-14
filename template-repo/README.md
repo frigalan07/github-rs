@@ -1,8 +1,8 @@
 # Nombre del proyecto
 
-Descripción de proyecto
+Descripción de proyecto <3
 
-## Uso
+## Uso 
 
 Especificar argumentos que utiliza el script y que deben contener los mismos.
 
