@@ -17,7 +17,7 @@ CATEGORY
 
 USAGE
 
-    % python programName
+    % python programName. [-parameters] [values]
     
 
 ARGUMENTS
