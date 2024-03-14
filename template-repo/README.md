@@ -1,6 +1,6 @@
 # Nombre del proyecto
 
-Descripción de proyecto
+Descripción de proyecto general.
 
 ## Uso
 
@@ -8,7 +8,7 @@ Especificar argumentos que utiliza el script y que deben contener los mismos.
 
 ## Salida
 
-Información o datos de salida que dara el script
+Información o datos de salida que dará el script.
 
 ## Control de errores
 
@@ -16,11 +16,11 @@ Como maneja el código los errores que pueda surgir
 
 ## Pruebas
 
-Especificar las pruebas que el script ejecuta y como se pueden encontrar
+Especificar las pruebas que el script ejecuta y como se pueden encontrar.
 
 ## Datos
 
-Tipo de datos que admite el script, dando todas las especificaciones que estas deben contener 
+Tipo de datos que admite el script, dando todas las especificaciones que estas deben contener.  
 
 ## Metadatos y documentación
 
@@ -43,6 +43,6 @@ Si utiliza este script en su trabajo, por favor cite: [información de citación
 
 ## Contáctenos
 
-Si tiene problemas o preguntas, por favor abra un problema en este repositorio o póngase en contacto 
+Si tiene problemas o preguntas, por favor, genera un issue en este repositorio o póngase en contacto 
 con nosotros en: [información de contacto].
 
