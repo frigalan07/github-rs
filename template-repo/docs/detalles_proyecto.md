@@ -4,7 +4,7 @@ Fecha:
 
 **Participantes**:
 
-- nombre : e-mail
+- Frida Galán Hernández : fridagh@lcg.unam.mx
 
 ## Descripción del Problema
 
